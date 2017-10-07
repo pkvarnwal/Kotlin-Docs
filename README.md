@@ -3,6 +3,8 @@
 ### var
 ### val
 ### Companion Objects
+### Functional and object-oriented
+### Object-Oriented Programming in Kotlin
 
 ### var:
 * `var` is like general variable and its known as a mutuable variable in `Kotlin` and can be assigned multiple times.
