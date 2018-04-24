@@ -40,3 +40,9 @@ to model the problem we have to solve in terms of objects.
 You can view each object as a minicomputer on its own: it has a state and can perform actions.
 An object through its available actions exhibits some sort of behavior; 
 therefore, there is a clear analogy between objects/entities and real life.
+
+### To compile: 
+* kotlinc fileName.kt -include-runtime -d fileName.jar
+
+### To run:
+* java -jar fileName.jar
