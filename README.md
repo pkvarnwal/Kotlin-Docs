@@ -1,5 +1,5 @@
 # Kotlin Guidelines
-
+This is test msg.
 ### var
 ### val
 ### Companion Objects
